@@ -266,3 +266,10 @@ python export.py --weights yolov5s.pt --img 640 --device 0 --include engine
 * Use swapfile when building to avoid memory crash
 
 ---
+## Collaborators
+
+This project was developed in collaboration with:
+
+- Kritsana Netpugdee  
+- Purin Chirapornchai  
+- Jakapat Dungdee
